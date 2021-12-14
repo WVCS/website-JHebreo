@@ -1,3 +1,8 @@
+body {
+  background-color: #BBC2E2
+}
+
+
 nav { 
   list-style-type: none;
   background-color: black;
@@ -26,9 +31,6 @@ li a:hover {
   color: black;
 }
 
-body {
-  background-color: #BBC2E2
-}
 
 h3 {
   color: black;
