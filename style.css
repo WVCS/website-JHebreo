@@ -36,6 +36,11 @@ h3 {
   background-color: white;
   letter-spacing: 5px;
 }
+p {
+  color: black;
+  font-size: 250%;
+  letter-spacing: 2px;
+}
 
 img {
   width: 25%;
